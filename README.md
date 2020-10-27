@@ -4,7 +4,7 @@ Artificial Intelligence Assignment: Creation of an intelligent agent that solves
 
 How to run
 ------
-Download the .java file. Compile using ``` javac SudokuPlayer.java ```. Run with ``` java SudokuPlayer ```
+Download the .java file. Compile using ``` javac SudokuPlayer.java ``` (assumes you have the Java Compiler installed). Run with ``` java SudokuPlayer ```
 The program randomly generates a solveable sudoku board based on level of difficulty (corresponding to number of missing digits on the board). You will be prompted to run via GUI or not. Then, you choose an algorithm (AC3 or custom algorith, explained below) that will solve the sudoku board.
 
 To learn more about the AC3 algorithm, explore the [Wikipedia](https://en.wikipedia.org/wiki/AC-3_algorithm) page
